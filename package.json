@@ -52,10 +52,10 @@
         "ts-node": "~8.3.0",
         "tslint": "~6.1.0",
         "typescript": "~3.8.3"
-    }
-	"environmentSource": "environments/environment.ts",
-        "environments": {
+    },
+    "environmentSource": "environments/environment.ts",
+    "environments": {
         "dev": "environments/environment.ts",
         "prod": "environments/environment.prod.ts"
-}
+    }
 }
